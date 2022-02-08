@@ -3,7 +3,7 @@
 ## Goals && Project
 
 You need to choose one or more topics to solve(one project can solve more than one problem). Under following
-url **[https://developers.google.com/community/gdsc-solution-challenge/UN-goals](https://developers.google.com/community/gdsc-solution-challenge/UN-goals)**
+url **[17 goals](https://developers.google.com/community/gdsc-solution-challenge/UN-goals)**
 you can find more details about following problems you can choose to solve:
 
 1. **No Poverty**
