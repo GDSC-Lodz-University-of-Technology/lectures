@@ -24,7 +24,8 @@ you can find more details about following problems you can choose to solve:
 16. **Peace, Justice and Strong Institutions**
 17. **Partnerships**
 
-Your project have to use at least one of Google technologies like: **GCP**, **Firebase**, **TensorFlow**, **PWA**, **Android**, **Flutter** ...
+Your project have to use at least one of Google technologies like: **GCP**, **Firebase**, **TensorFlow**, **PWA**, **
+Android**, **Flutter** ...
 
 ## Team
 
@@ -32,13 +33,13 @@ You can build a team(up to 4 members) or work alone. Every member of your team h
 
 ## Timeline
 
- 1. **January 11** -> Announce solution challenge + registration opens
- 2. **March 15** -> Project submissions open
- 3. **March 31** -> Project submissions close
- 4. **End April** -> Global teams and top regional winner announced
- 5. **End of May** -> Final solution submission
- 6. **June** -> Top 10 teams announced
- 7. **End of July** -> top 3 winners announced
+1. **January 11** -> Announce solution challenge + registration opens
+2. **March 15** -> Project submissions open
+3. **March 31** -> Project submissions close
+4. **End April** -> Global teams and top regional winner announced
+5. **End of May** -> Final solution submission
+6. **June** -> Top 10 teams announced
+7. **End of July** -> top 3 winners announced
 
 ## Evaluation criteria
 
@@ -62,21 +63,33 @@ You can build a team(up to 4 members) or work alone. Every member of your team h
   the users? (10 points)
 - Has the team made effective product and technical decisions for their solution? (10 points)
 
+## Prizes
+
+- **Top 50 Entries** -> Will receive branded _**T-shirts**_. 1 per student on each qualifying team. All qualifying teams will
+  receive a Certificate
+- **Top 10 Entries** -> will be awarded an opportunity to showcase their entries to Googlers and developers all around
+  the world during the virtual 2022 Solution Challenge Demo Day, _**Virtual mentorship from Googlers and GDEs**_, including
+  Swag box (with Branded items: _**T-shirt, stickers, backpack, etc...**_)
+- **Top 7 Entries** -> will receive a Cash Prize of _**$1,000**_ per student. Winnings for each qualifying team will not
+  exceed $4,000
+- **Top 3 Contest Winners** -> each individual from the top 3 winning teams will receive a Cash Prize of _**$3,000**_.
+  Winnings for each qualifying team will not exceed _**$12,000**_
+
 ## Additional information
 
- - In presentation at slide 8 you can find example projects from last year
- - Some video tips how to start building your project you can find at slide 11 in presentation
- - If you are planning to use GCP you can request free credits (instructions at slide 12)
+- In presentation at slide 8 you can find example projects from last year
+- Some video tips how to start building your project you can find at slide 11 in presentation
+- If you are planning to use GCP you can request free credits (instructions at slide 12)
 
 ## Resources
 
- - [Solution Challenge main page](https://developers.google.com/community/gdsc-solution-challenge)
- - [Solution Challenge Timeline](https://developers.google.com/community/gdsc-solution-challenge/timeline)
- - [Solution Challenge Goals](https://developers.google.com/community/gdsc-solution-challenge/UN-goals)
- - [Solution Challenge Resources/Tutorials](https://developers.google.com/community/gdsc-solution-challenge/resources)
- - [Solution Challenge Past Winners](https://developers.google.com/community/gdsc-solution-challenge/winners)
- - [Solution Challenge Terms and Conditions](https://developers.google.com/community/gdsc-solution-challenge/terms)
- - [Solution Challenge FAQ](https://developers.google.com/community/gdsc-solution-challenge/faq)
+- [Solution Challenge main page](https://developers.google.com/community/gdsc-solution-challenge)
+- [Solution Challenge Timeline](https://developers.google.com/community/gdsc-solution-challenge/timeline)
+- [Solution Challenge Goals](https://developers.google.com/community/gdsc-solution-challenge/UN-goals)
+- [Solution Challenge Resources/Tutorials](https://developers.google.com/community/gdsc-solution-challenge/resources)
+- [Solution Challenge Past Winners](https://developers.google.com/community/gdsc-solution-challenge/winners)
+- [Solution Challenge Terms and Conditions](https://developers.google.com/community/gdsc-solution-challenge/terms)
+- [Solution Challenge FAQ](https://developers.google.com/community/gdsc-solution-challenge/faq)
 
 > If you need any clarification, feel free to reach me 😉
  
