@@ -84,13 +84,13 @@ You can build a team(up to 4 members) or work alone. Every member of your team h
 ## Resources
 
 - **[Presentation with more details](https://github.com/GDSC-Lodz-University-of-Technology/lectures/blob/master/resources/04-02-2022-google-solution-challange-info-session/solution-challenge-info-session-presentation.pdf)**
-- [Solution Challenge main page](https://developers.google.com/community/gdsc-solution-challenge)
-- [Solution Challenge Timeline](https://developers.google.com/community/gdsc-solution-challenge/timeline)
-- [Solution Challenge Goals](https://developers.google.com/community/gdsc-solution-challenge/UN-goals)
-- [Solution Challenge Resources/Tutorials](https://developers.google.com/community/gdsc-solution-challenge/resources)
-- [Solution Challenge Past Winners](https://developers.google.com/community/gdsc-solution-challenge/winners)
-- [Solution Challenge Terms and Conditions](https://developers.google.com/community/gdsc-solution-challenge/terms)
-- [Solution Challenge FAQ](https://developers.google.com/community/gdsc-solution-challenge/faq)
+- **[Solution Challenge main page](https://developers.google.com/community/gdsc-solution-challenge)**
+- **[Solution Challenge Timeline](https://developers.google.com/community/gdsc-solution-challenge/timeline)**
+- **[Solution Challenge Goals](https://developers.google.com/community/gdsc-solution-challenge/UN-goals)**
+- **[Solution Challenge Resources/Tutorials](https://developers.google.com/community/gdsc-solution-challenge/resources)**
+- **[Solution Challenge Past Winners](https://developers.google.com/community/gdsc-solution-challenge/winners)**
+- **[Solution Challenge Terms and Conditions](https://developers.google.com/community/gdsc-solution-challenge/terms)**
+- **[Solution Challenge FAQ](https://developers.google.com/community/gdsc-solution-challenge/faq)**
 
 > If you need any clarification, feel free to reach me 😉
  
