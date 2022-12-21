@@ -63,6 +63,7 @@ any GDSC club.
 
 ## Resources
 
+- **[Stream](https://www.youtube.com/watch?v=uNFsxn9VCDM)**
 - **[Presentation with more details](https://github.com/GDSC-Lodz-University-of-Technology/lectures/blob/master/resources/2022-12-20-google-solution-challange-info-session/sollution-challange-info-session-presentation)**
 - **[Solution Challenge main page](https://developers.google.com/community/gdsc-solution-challenge)**
 - **[Solution Challenge Timeline](https://developers.google.com/community/gdsc-solution-challenge/timeline)**
