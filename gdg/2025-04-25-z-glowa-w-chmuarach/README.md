@@ -1,10 +1,10 @@
 # Z głową w chmurach
 
-Czy jesteś ciekaw, co kryje się za pracą inżyniera chmury? Czy chcesz poznać różnorodne aspekty tej dynamicznej ścieżki kariery poza tradycyjnym programowaniem? Dołącz do nas, aby odkryć tajemnice pracy w chmurze i dowiedzieć się, z jakimi projektami możesz się spotkać jako inżynier chmury.
+## 📺 Zapis live: 
 
-📺 Zapis live: <https://youtube.com/live/Z_1GrPAwUN8?feature=share>
+[https://youtube.com/live/Z_1GrPAwUN8](https://youtube.com/live/Z_1GrPAwUN8)
 
-Agenda wydarzenia:
+## Agenda wydarzenia:
 
 1. Typy Projektów w Chmurze: Odkryj różnorodność projektów, z jakimi najczęściej spotykają się inżynierowie chmury. Od prostych aplikacji internetowych po skomplikowane rozwiązania biznesowe - poznaj różnorodność wyzwań, które czekają na profesjonalistów w dziedzinie chmury.
 
